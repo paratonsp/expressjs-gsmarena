@@ -1,0 +1,23 @@
+{
+  "name": "gsmarena-expressjs",
+  "version": "1.0.0",
+  "description": "ExpressJS API for GSM Arena",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paratonsp/gsmarena-expressjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paratonsp/gsmarena-expressjs/issues"
+  },
+  "homepage": "https://github.com/paratonsp/gsmarena-expressjs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gsmarena-api": "^2.0.4"
+  }
+}
